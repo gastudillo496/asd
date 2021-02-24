@@ -1,4 +1,4 @@
 # translator
 
 
-Just an example using https://translation.googleapis.com
+Just an example using https://translation.googleapis.com (created by CodeSandbox)
